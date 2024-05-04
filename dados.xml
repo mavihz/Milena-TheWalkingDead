@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+ <character>
+        <id>1</id>
+        <name>Rick Grimes</name>
+        <description>Rick Grimes é o protagonista principal de "The Walking Dead". Ele é um ex-xerife que lidera um grupo de sobreviventes em um mundo pós-apocalíptico dominado por zumbis.</description>
+    </character>
+    <character>
+        <id>2</id>
+        <name>Daryl Dixon</name>
+        <description>Daryl Dixon é um dos membros mais valiosos do grupo de sobreviventes, conhecido por suas habilidades de rastreamento, combate e lealdade inabalável.</description>
+    </character>
+    <character>
+        <id>3</id>
+        <name>Michonne</name>
+        <description>Michonne é uma guerreira habilidosa que se torna uma peça fundamental no grupo de sobreviventes. Ela é conhecida por sua habilidade com uma katana e sua determinação feroz.</description>
+    </character>
+    <character>
+        <id>4</id>
+        <name>Glenn Rhee</name>
+        <description>Glenn Rhee é um dos membros originais do grupo de sobreviventes. Ele é conhecido por sua coragem, inteligência e habilidade em encontrar suprimentos essenciais.</description>
+    </character>
+    <character>
+        <id>5</id>
+        <name>Carol Peletier</name>
+        <description>Carol Peletier é uma sobrevivente que passa por uma transformação significativa ao longo da série, evoluindo de uma mulher frágil para uma guerreira determinada e implacável.</description>
+    </character>
+    <character>
+        <id>6</id>
+        <name>Maggie Greene</name>
+        <description>Maggie Greene é uma sobrevivente que se destaca por sua força, resiliência e liderança. Ela é membro de uma família de fazendeiros e desempenha um papel crucial no grupo de sobreviventes.</description>
+    </character>
+    <character>
+        <id>7</id>
+        <name>Carl Grimes</name>
+        <description>Carl Grimes é o filho de Rick Grimes e um dos personagens mais jovens do grupo de sobreviventes. Ele passa por uma jornada de amadurecimento e autodescoberta em meio ao apocalipse zumbi.</description>
+    </character>
+    <character>
+        <id>8</id>
+        <name>Negan</name>
+        <description>Negan é um antagonista formidável e carismático que lidera um grupo de sobreviventes conhecido como os Salvadores. Ele é conhecido por sua crueldade e uso de um taco de beisebol envolto em arame farpado chamado Lucille.</description>
+    </character>
+    <character>
+        <id>9</id>
+        <name>Morgan Jones</name>
+        <description>Morgan Jones é um sobrevivente solitário que passa por uma jornada de redenção e busca por paz interior. Ele é conhecido por sua filosofia de "tudo volta" e suas habilidades de combate com um bastão improvisado.</description>
+    </character>
+    <character>
+        <id>10</id>
+        <name>Ezekiel</name>
+        <description>Ezekiel é o líder do Reino, uma das comunidades sobreviventes em "The Walking Dead". Ele é conhecido por sua presença imponente, seu tigre de estimação chamado Shiva e seu discurso teatral.</description>
+    </character>
+
+</personagens>
